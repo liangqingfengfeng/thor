@@ -1,0 +1,8 @@
+{
+  "name": "raytheon",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dayjs": "^1.11.0",
+    "htmlparser2": "^7.2.0"
+  }
+}
